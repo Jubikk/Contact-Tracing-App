@@ -1,0 +1,4 @@
+First, there are three files that make up the entire project: a GUI file, a Contact class, and a contact tracking class.
+
+Do I need to make a database?
+How about data error or data validation?
